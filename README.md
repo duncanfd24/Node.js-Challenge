@@ -1,14 +1,17 @@
-#ReadMe Generator
+# ReadMe Generator
 
-##Description
-This application assists in formatting a ReadMe from the responses submitted.
+## Description
 
-##Installation
-You will need to install npm and inquirer.
+This ReadMe generator is a web application that allows users to create a readme based on responses that are submitted.
 
-##License
-MIT
+## Installation
 
-##Contributing
+You would need to install npm and inquirer.
+
+## Contributing
 Robby Kurle
+
+## License
+
+MIT License was utilized for this application.
 
